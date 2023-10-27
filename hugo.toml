@@ -37,7 +37,7 @@ paginate     = 10
     readOtherPosts = "Veja outros posts"
 
   [languages.en.params]
-    subtitle  = "Mergulhe nos Devaneios Neurais"
+    subtitle  = "Devaneios Neurais"
 
     [languages.en.params.logo]
       logoText = "$cd /home/pe1xera"
@@ -49,13 +49,14 @@ paginate     = 10
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
+    identifier = "posts"
+    name       = "Posts"
     url        = "/posts"
+
 
     [[params.social]]
         name = "linkedin"
-        url = "https://www.linkedin.com/in/whoisrodrigopeixoto/"
+        url = "https://www.linkedin.com/in/pe1xera/"
 
     [[params.social]]
         name = "tryhackme"
