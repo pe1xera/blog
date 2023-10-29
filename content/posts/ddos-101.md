@@ -30,7 +30,7 @@ ___
 # #O grande problema
 >Suponhamos agora que vários estradas estão bloqueadas, por diversos carros de diversos locais, ao longo do país inteiro. Esse é o DDoS.
 
-{{< image src="../../../blog/static/ddos2.png" position="center" style="border-radius: 8px;" >}}
+{{< image src="/ddos2.png" position="center" style="border-radius: 8px;" >}}
 
 Um Distributed Denial of Service (DDoS) é uma espécie de DoS mais avançado, distribuído. Nesse caso, o inimigo usa uma botnet a seu favor, para aumentar a efetividade do ataque.
 
