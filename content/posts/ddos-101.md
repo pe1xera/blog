@@ -14,7 +14,7 @@ Tendo isso em mente, vejamos de forma simplicada como funciona esse tipo de ataq
 >_Todas as imagens deste artigo foram geradas utilizando um pouco de imaginação e a Midjourney AI._
 ___
 # #Conceitos-chave
-![]("ddos1.png")
+![](../static/ddos1.png)
 
 Para entender um DDoS, primeiro é necessário entender dois conceitos-chave, que estão diretamente relacionados ao tema. Vejamos alguns deles de forma simplificada e com exemplos didáticos fora da tecnologia.
 
@@ -29,7 +29,7 @@ ___
 
 # #O grande problema
 >Suponhamos agora que vários estradas estão bloqueadas, por diversos carros de diversos locais, ao longo do país inteiro. Esse é o DDoS.
-![]("ddos2.png")
+![](../static/ddos2.png)
 
 Um Distributed Denial of Service (DDoS) é uma espécie de DoS mais avançado, distribuído. Nesse caso, o inimigo usa uma botnet a seu favor, para aumentar a efetividade do ataque.
 
@@ -45,7 +45,7 @@ Nem é preciso mencionar que os danos de um ataque desse tipo são enormes. Abai
 ___
 
 # #Exemplos reais (e recentes)
-![]("ddos3.png")
+![](../static/ddos3.png)
 
 A princípio, pode parecer um problema distante ou que ocorre com baixa frequência, mas o DDoS tem sido cada vez mais frequente nas manchetes.
 
@@ -55,11 +55,12 @@ A princípio, pode parecer um problema distante ou que ocorre com baixa frequên
 - Outubro de 2016 — O provedor de DNS chamado Dyn sofre um ataque DDoS massivo que afeta vários sites populares, incluindo Twitter, Spotify, Netflix e Reddit.
 - Setembro de 2017 — O Google sofre um dos maiores ataques DDoS da história.
 - Fevereiro de 2020 — a gigante AWS informa que conseguiu mitigar um forte ataque DDoS em seus serviços.
+
 Convivemos com o DDoS no dia-a-dia e, por vezes, não percebemos. Isso se dá porque há uma grande equipe trabalhando nos bastidores, para que a disponibilidade — ela mesma, da tríade CIA — seja reestabelecida.
 ___
 
 # #Prevenção e Mitigação
-![](ddos4.png)
+![](../static/ddos4.png)
 
 >Mas, então, como se proteger? Como evitar que um ataque de tão grandes proporções ocorra ou, ainda que ocorra, evitar que atrapalhe as operações do negócio?
 
@@ -69,6 +70,7 @@ ___
 - Usar um sistema de Load Balance, para que o tráfego da rede seja distribuído e não fique concentrado em um único servidor. Assim, evitamos um ponto único de falha.
 - Treinamento, afinal, há sempre o fator humano na equação. Os funcionários, a equipe de redes e de resposta a incidentes devem estar preparados para que, ainda que ocorra um DDoS, ele tenha o mínimo de impacto na companhia.
 - E, claro, manter todos os sistemas atualizados com os patches mais recentes, a fim de minimizar as vulnerabilidades.
+
 Com isso, é possível diminuir as chances desse tipo de ataque, ainda que “segurança total” ou “zero falhas” sejam termos quase folclóricos.
 
 # #Conclusão
