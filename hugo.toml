@@ -64,7 +64,7 @@ paginate     = 10
 
     [[params.social]]
         name = "medium"
-        url = "https://medium.com/@whoisrodrigopeixotos"
+        url = "https://medium.com/@whoisrodrigopeixoto"
 
     [[params.social]]
         name = "spotify"
