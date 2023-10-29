@@ -14,7 +14,7 @@ Tendo isso em mente, vejamos de forma simplicada como funciona esse tipo de ataq
 >_Todas as imagens deste artigo foram geradas utilizando um pouco de imaginação e a Midjourney AI._
 ___
 # #Conceitos-chave
-{{< image src="../../../blog/static/ddos1.png" position="center" style="border-radius: 8px;" >}}
+{{< image src="../../../ddos1.png" position="center" style="border-radius: 8px;" >}}
 
 Para entender um DDoS, primeiro é necessário entender dois conceitos-chave, que estão diretamente relacionados ao tema. Vejamos alguns deles de forma simplificada e com exemplos didáticos fora da tecnologia.
 
@@ -30,7 +30,7 @@ ___
 # #O grande problema
 >Suponhamos agora que vários estradas estão bloqueadas, por diversos carros de diversos locais, ao longo do país inteiro. Esse é o DDoS.
 
-{{< image src="/ddos2.png" position="center" style="border-radius: 8px;" >}}
+{{< image src="../../../ddos2.png" position="center" style="border-radius: 8px;" >}}
 
 Um Distributed Denial of Service (DDoS) é uma espécie de DoS mais avançado, distribuído. Nesse caso, o inimigo usa uma botnet a seu favor, para aumentar a efetividade do ataque.
 
@@ -46,7 +46,7 @@ Nem é preciso mencionar que os danos de um ataque desse tipo são enormes. Abai
 ___
 
 # #Exemplos reais (e recentes)
-{{< image src="ddos3.png" position="center" style="border-radius: 8px;" >}}
+{{< image src="../../../ddos3.png" position="center" style="border-radius: 8px;" >}}
 
 A princípio, pode parecer um problema distante ou que ocorre com baixa frequência, mas o DDoS tem sido cada vez mais frequente nas manchetes.
 
@@ -61,7 +61,7 @@ Convivemos com o DDoS no dia-a-dia e, por vezes, não percebemos. Isso se dá po
 ___
 
 # #Prevenção e Mitigação
-{{< image src="../static/ddos4.png" position="center" style="border-radius: 8px;" >}}
+{{< image src="../../../ddos4.png" position="center" style="border-radius: 8px;" >}}
 
 >Mas, então, como se proteger? Como evitar que um ataque de tão grandes proporções ocorra ou, ainda que ocorra, evitar que atrapalhe as operações do negócio?
 
