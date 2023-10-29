@@ -14,7 +14,7 @@ Tendo isso em mente, vejamos de forma simplicada como funciona esse tipo de ataq
 >_Todas as imagens deste artigo foram geradas utilizando um pouco de imaginação e a Midjourney AI._
 ___
 # #Conceitos-chave
-![](ddos1.png)
+< image src="../static/ddos1.png" position="center" style="border-radius: 8px;" >
 
 Para entender um DDoS, primeiro é necessário entender dois conceitos-chave, que estão diretamente relacionados ao tema. Vejamos alguns deles de forma simplificada e com exemplos didáticos fora da tecnologia.
 
@@ -29,7 +29,7 @@ ___
 
 # #O grande problema
 >Suponhamos agora que vários estradas estão bloqueadas, por diversos carros de diversos locais, ao longo do país inteiro. Esse é o DDoS.
-![](static/ddos2.png)
+{{< image src="../static/ddos2.png" position="center" style="border-radius: 8px;" >}}
 
 Um Distributed Denial of Service (DDoS) é uma espécie de DoS mais avançado, distribuído. Nesse caso, o inimigo usa uma botnet a seu favor, para aumentar a efetividade do ataque.
 
