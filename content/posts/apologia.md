@@ -6,8 +6,19 @@ cover = "piloto.png"
 
 _“[…] as palavras podem ser extremamente perigosas. O que você define pode se tornar realidade, mas o que você insinua também pode… Mesmo que você não perceba que está fazendo isso.” (Alan Wake’s American Nightmare, Pg. 11: The Dangers of Creation)_
 
-# 0x01
-A despeito de todas as discussões e questionamentos, a Ciência da Computação já provou que, antes do um, temos o número mais importantes de todos, ainda que este não tenha valor nenhum, o zero.
+# 0x00
+30 de Novembro é um dia de mudanças.
+
+ Em 30 de novembro, comemoram-se datas importantes, que marcaram a humanidade profundamente:
+  - o Dia Internacional da Segurança da Informação; 
+  - o nascimento de Winston Churchill, que liderou o mundo livre na WWII; 
+  - o Dia do Teólogo, estudioso da Palavra de Deus;
+  - o lançamento da música Thriller de Michael Jackson, uma das melhores da história;
+  - o nascimento do lendário comediante Ben Stiller, de Uma Noite no Museu. 
+
+Não pense, querido leitor, que me considero um teólogo, um comediante, músico e, tampouco, um Analista de Cibersegurança. O ponto aqui é que tal data possui importância enorme para o imaginário popular e tende a conter eventos de grande impacto e notavéis começos.
+
+Por falar em "começo", quero relembrar que, a despeito de todas as discussões e questionamentos, a Ciência da Computação já provou que, antes do um, temos o número mais importantes de todos, ainda que este não tenha valor nenhum, o zero.
 
 Sim, Zero - o ponto de partida. Mais do que a “ausência de valor”, o zero representa o primeiro estágio. Antes que a mente humana crie a ideia do Um, ela deve logicamente começar pelo Zero, pelo nada. Em decisões, argumentos e relações, temos a tendência de desconsiderar a base sólida que deveria fundamentar nossas ações: o pensamento.
 
