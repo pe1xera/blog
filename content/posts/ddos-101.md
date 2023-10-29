@@ -1,5 +1,5 @@
 +++
-title = 'Piloto, ou: "A Apologia de Devaneios Neurais"'
+title = 'Entendendo o ataque DDoS e seus impactos de uma forma simples'
 date = 2023-01-17
 cover = "ddos_capa.png"
 +++
