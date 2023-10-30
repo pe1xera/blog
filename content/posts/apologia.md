@@ -22,7 +22,7 @@ Por falar em "começo", quero relembrar que, a despeito de todas as discussões 
 
 Sim, Zero - o ponto de partida. Mais do que a “ausência de valor”, o zero representa o primeiro estágio. Por si só, essa ideia traz conflitos e debates, pois implica que antes que a mente humana crie a ideia do Um, ela deve logicamente começar pelo Zero, pelo nada. Em decisões, argumentos e relações, temos a tendência de desconsiderar a base sólida que deveria fundamentar nossas ações: o pensamento.
 
-— Ah, é óbvio! — pensaria um leitor atento.
+— Ah, é óbvio! — pensaria um leitor desatento.
 
 — Nem tanto — eu diria.
 ___
@@ -44,6 +44,6 @@ Surge, portanto, Devaneios Neurais. Em um mundo acostumado com vídeos de 30 seg
 
 Lógico ou ilógico, prático ou não prático, técnico ou não técnico, digamos que há uma ampla gama de assuntos, que podem ser comentados com o objetivo único de gerar _reflexões_, pois esse é o ponto de partida.
 
-O desafio é grande, querido leitor: Voltemos ao zero, deixemos a mente — poderosa máquina que é — trabalhar e trazer seus Devaneios Neurais.
+O desafio é grande, querido leitor: Voltemos ao zero, deixemos a mente — poderosa máquina que é — trabalhar e trazer sobre nós os seus Devaneios Neurais.
 
 Muito obrigado por sua companhia até aqui. Até a próxima!

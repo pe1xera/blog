@@ -82,6 +82,6 @@ Concluo propondo a seguinte reflexão:
 >_Mesmo assim, devemos lembrar que a Segurança é a maior aliada da Disponibilidade. Sem segurança, qualquer ataque ou incidente pode causar interrupções no funcionamento dos serviços para os usuários, amplificando ainda mais os danos e o prejuízo, que pode ser irreversível._
 
 >**Pode, nos dias de hoje, uma empresa sobreviver sem cybersecurity?**
-___
+
 
 Muito obrigado pela sua companhia até aqui, querido(a) leitor(a)! 
