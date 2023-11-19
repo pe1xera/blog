@@ -56,6 +56,10 @@ paginate     = 10
     name       = "Posts"
     url        = "/posts"
 
+ [[menu.main]]
+    identifier = "whoami"
+    name       = "whoami"
+    url        = "/whoami"
 
     [[params.social]]
         name = "linkedin"
