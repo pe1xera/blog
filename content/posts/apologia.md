@@ -1,6 +1,6 @@
 +++
 title = 'Piloto, ou: "A Apologia de Devaneios Neurais"'
-date = 2023-10-27
+date = 2023-11-30
 cover = "piloto.png"
 +++
 

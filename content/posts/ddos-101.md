@@ -1,6 +1,6 @@
 +++
 title = 'Entendendo o ataque DDoS e seus impactos de uma forma simples'
-date = 2023-01-17
+date = 2023-11-30
 cover = "ddos_capa.png"
 +++
 
