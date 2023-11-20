@@ -1,8 +1,7 @@
----
-title: "Whoami"
-date: 2023-11-30
-
----
++++
+title = 'Whoami'
+date = 2023-10-30
++++
 
 {{< image src="../../../the_pe1xera.png" position="center" style="border-radius: 50%;" >}}
 
