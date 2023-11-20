@@ -59,7 +59,7 @@ paginate     = 10
  [[menu.main]]
     identifier = "whoami"
     name       = "whoami"
-    url        = "/posts/whoami.md"
+    url        = "/posts/whoami/"
 
     [[params.social]]
         name = "linkedin"
