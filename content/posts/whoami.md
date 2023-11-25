@@ -6,7 +6,7 @@ date = 2023-11-20
 {{< image src="../../../the_pe1xera.jpeg" position="center" style="border-radius: 50%; width: 45%; filter: drop-shadow(4px 3px 4px #1f1e1e); " >}}   
        
 
-Este sou eu, **Rodrigo Peixoto Santos**, ou **pe1xera** - no caso de CTF's ou no Discord. 
+Este sou eu, **Rodrigo Peixoto Santos**, ou **pe1xera** - no caso de CTF's ou Discord. 
 
 Francamente, não há nada mais difícil do que definir a si mesmo sem ser impreciso ou enviesado por suas próprias percepções. Mesmo assim, caso interesse saber, diria que sou apenas um entusiasta da Cibersegurança, com paixão pelo conhecimento. Minha missão é tornar o Brasil um país mais seguro e livre, utilizando meus conhecimentos para fortalecer os alicerces da segurança da informação e promovê-la, mantendo sempre a ética, bom humor e minhas raízes.
 
