@@ -58,7 +58,7 @@ paginate     = 10
 
  [[menu.main]]
     identifier = "whoami"
-    name       = "whoami"
+    name       = "Whoami"
     url        = "/posts/whoami/"
 
     [[params.social]]
@@ -77,6 +77,7 @@ paginate     = 10
         name = "spotify"
         url = "https://open.spotify.com/user/wzz2154qbubbjdsxcd8xtewdh"
 
+# Pra permitir as tags HTML
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
