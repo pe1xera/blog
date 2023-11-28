@@ -4,6 +4,8 @@ date = 2023-11-20
 cover = "sintese.png"
 +++
 
+<center><audio src="../../../thriller_night.mp3" controls title="Johnson"></audio></center> 
+
 _“Música é emocional, e você pode encontrar um músico em um estado muito pouco emocional, ou talvez você só não esteja na mesma disposição mental que o músico [...].” -Nat King Cole_
 ___
 # Neutralidade
@@ -33,7 +35,7 @@ Agora, tomando aquele conceito de neutralidade, pense nas produções das décad
 
 As músicas dessa época eram muitas vezes gravadas em estúdios analógicos, usando equipamentos que agora são conhecidos por sua capacidade de capturar a verdadeira essência do som. Os músicos muitas vezes gravavam ao vivo, transmitindo emoção e autenticidade. Não havia a facilidade dos ajustes digitais que temos hoje, de fato, mas isso significa que as músicas eram muitas vezes registradas em sua forma mais crua e pura. Que presente!
 
-Entendo a tecnologia, nesse cenário, como uma espada de dois gumes, já que melhora um aspecto importante da produção musical, ao passo que dá vazão a efeitos digitais, auto-tune e uma necessidade obscura e inintendível de compressão destroem o potencial das músicas e faz ascender pessoas com nenhum talento musical, mas com enorme talento sonoro.
+Entendo a tecnologia, nesse cenário, como uma espada de dois gumes, já que melhora um aspecto importante da produção musical, ao passo que dá vazão a efeitos digitais, auto-tune e uma necessidade obscura e inintendível de compressão que destroem o potencial das músicas e faz ascender pessoas com nenhum talento musical, mas com enorme talento sonoro.
 
 Uma variável não foi abordada até agora: o ouvinte. Não há dúvida que os gostos musicais são subjetivos e, certamente, variam a depender do contexto, idade e educação.
 
@@ -43,4 +45,11 @@ Nenhuma desses indivíduos, porém, é indesculpável quanto ao consumo de músi
 
 # Fade-out
 
-Talvez seja hora de parar de buscar mais de 60 layers de efeito e passar a voltar às bases, que entregaram canções atemporais e de qualidade, ou talvez você prefira continuar com suas batidas repetitivas e programadas, vivendo na mediocridade daquilo que é sonoro, mas não musical.
+Talvez seja hora de parar de buscar mais de 60 layers de efeito e passar a voltar às bases, que entregaram canções atemporais e de qualidade, ou talvez você prefira continuar com suas batidas repetitivas e programadas, vivendo na mediocridade daquilo que é sonoro, mas não é musical.
+
+Não é musical.  
+Não é.  
+Não.  
+...  
+..  
+.   
