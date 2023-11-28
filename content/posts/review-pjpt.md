@@ -94,5 +94,5 @@ Novamente, ressalto a importância da comunidade no Discord e o apoio do time de
 Muito obrigado pela sua leitura até aqui, querido leitor.  
 Fique com a imagem da belíssima certificação.
 
-{{< image src="../../../pjpt-cert.png" >}}  
+{{< image src="../../../pjpt-cert.png" >}} 
 

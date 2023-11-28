@@ -8,19 +8,6 @@ _“[…] as palavras podem ser extremamente perigosas. O que você define pode 
 ___
 # 0x00
 
-Vamos supor que você fosse capaz todas as noites de sonhar qualquer sonho que desejasse sonhar e que, em uma noite, você pudesse sonhar 75 anos.
-
-Naturalmente, à medida que você iniciasse essa aventura dos sonhos, você realizaria todos os seus desejos. Mas agora, vamos ter uma surpresa...
-
-Vamos ter um sonho que **não está sob controle**! 
-
-(...)
-
-Então, você ficaria cada vez mais aventureiro e faria mais e mais apostas sobre o que você sonharia.  
-
-E, finalmente, você sonharia **onde você está agora**."
-
--- Alan Watts, O Sonho da Vida
 
 30 de Novembro é um dia de mudanças.
 
