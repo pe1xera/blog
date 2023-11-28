@@ -4,7 +4,7 @@ date = 2023-11-20
 cover = "sintese.png"
 +++
 
-<center><audio src="../../../thriller_night.mp3" controls title="Johnson"></audio></center> 
+<center><audio src="../../../johnson.mp3" controls title="Johnson"></audio></center> 
 
 _“Música é emocional, e você pode encontrar um músico em um estado muito pouco emocional, ou talvez você só não esteja na mesma disposição mental que o músico [...].” -Nat King Cole_
 ___
