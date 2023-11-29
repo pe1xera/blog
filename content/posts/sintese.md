@@ -23,12 +23,14 @@ Porém, não é assim que a audição funciona, já que absolutamente todos os s
 
 Isso não representa algo negativo, dado que nunca saberemos a diferença e sempre ouviremos o mundo da mesma forma ao longo de nossas vidas, mas serve como ponto de partida. Muito bem.
 
+___
 # Monotonia
 
 Estudos mostram que, ao longo do tempo, houve uma diminuição na complexidade harmônica (menos acordes), as melodias são menos intervalares (mais monótonas) e os tempos se tornaram mais uniformes. É por isso tudo o que você ouve parece terrivelmente semelhante e familiar (leia-se previsível). Não é apenas impressão sua, querido leitor, é a realidade.
 
 O ponto ao qual quero chegar é que todos já ouvimos e sabemos como é uma boa música, levando em conta o som e a produção — "Thriller" seria um exemplo primordial disso. No entanto, fomos condicionados a aceitar músicas que, sim, têm um design sonoro brilhante, mas que, independentemente de serem "de sucesso", não vão resistir ao teste do tempo. Poucas são as exceções.
 
+___
 # Magnetismo
 
 Agora, tomando aquele conceito de neutralidade, pense nas produções das décadas de 80, 70 e até mesmo 50. Muitos audiófilos e entusiastas da música argumentam que as músicas dessa época eram gravadas e produzidas de forma mais pura, mais próxima da neutralidade ideal.
@@ -43,13 +45,7 @@ Um estudo dos pesquisadores Rentfrow e Gosling, realizado em 2003, mostra que pe
 
 Nenhuma desses indivíduos, porém, é indesculpável quanto ao consumo de música. Por mais que as percepções sejam afetadas pela personalidade e o ambiente em que se vive, é fácil reconhecer uma produção acima da média, que foge dos padrões e entrega qualidade ao ouvinte.
 
+___
 # Fade-out
 
 Talvez seja hora de parar de buscar mais de 60 layers de efeito e passar a voltar às bases, que entregaram canções atemporais e de qualidade, ou talvez você prefira continuar com suas batidas repetitivas e programadas, vivendo na mediocridade daquilo que é sonoro, mas não é musical.
-
-Não é musical.  
-Não é.  
-Não.  
-...  
-..  
-.   
