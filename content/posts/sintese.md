@@ -37,15 +37,19 @@ Agora, tomando aquele conceito de neutralidade, pense nas produções das décad
 
 As músicas dessa época eram muitas vezes gravadas em estúdios analógicos, usando equipamentos que agora são conhecidos por sua capacidade de capturar a verdadeira essência do som. Os músicos muitas vezes gravavam ao vivo, transmitindo emoção e autenticidade. Não havia a facilidade dos ajustes digitais que temos hoje, de fato, mas isso significa que as músicas eram muitas vezes registradas em sua forma mais crua e pura. Que presente!
 
-Entendo a tecnologia, nesse cenário, como uma espada de dois gumes, já que melhora um aspecto importante da produção musical, ao passo que dá vazão a efeitos digitais, auto-tune e uma necessidade obscura e inintendível de compressão que destroem o potencial das músicas e faz ascender pessoas com nenhum talento musical, mas com enorme talento sonoro.
+Entendo a tecnologia, nesse cenário, como uma espada de dois gumes, já que melhora um aspecto importante da produção musical, ao passo que dá vazão a efeitos digitais, auto-tune e uma necessidade obscura e inintendível de compressão que destroem o potencial das músicas e faz ascender pessoas com pouco ou nenhum talento musical, mas com enorme talento sonoro ou de produção.
 
-Uma variável não foi abordada até agora: o ouvinte. Não há dúvida que os gostos musicais são subjetivos e, certamente, variam a depender do contexto, idade e educação.
-
-Um estudo dos pesquisadores Rentfrow e Gosling, realizado em 2003, mostra que pessoas de determinadas personalidades tendem a gostar de determinados gêneros musicais. Pessoas reflexivas e complexas tendem a aderir ao Jazz e Blues, por exemplo, enquanto pessoas intensas preferem o ramo alternativo, do rock ou do heavy metal.
-
-Nenhuma desses indivíduos, porém, é indesculpável quanto ao consumo de música. Por mais que as percepções sejam afetadas pela personalidade e o ambiente em que se vive, é fácil reconhecer uma produção acima da média, que foge dos padrões e entrega qualidade ao ouvinte.
+Uma variável não foi abordada até agora: o ouvinte. Não há dúvida que os gostos musicais são subjetivos e, certamente, variam a depender do contexto, idade e educação, mas esse argumento deixa uma grande lacuna.
 
 ___
 # Fade-out
+
+Um estudo dos pesquisadores Rentfrow e Gosling, realizado em 2003, mostra que pessoas de determinadas personalidades tendem a gostar de determinados gêneros musicais. Pessoas reflexivas e complexas tendem a aderir ao Jazz e Blues, por exemplo, enquanto pessoas intensas preferem o ramo alternativo, do rock ou do heavy metal.
+
+{{< image src="../../../rentfrow_gosling.png" position="center" style="width: 60%; border-radius: 5%;" >}}   
+
+Uma possibilidade, revelada na pesquisa, é que as pessoas utilizem a música como meio de regular suas emoções na vida cotidiana, ou seja, buscam músicas que estejam em consonância com seu estado emocional atual ou selecionam músicas para alterar seu estado de espírito. Existe, até mesmo, a hipótese de que as pessoas escolham músicas com um ritmo consistente com a sua frequência cardíaca.
+
+Nenhum desses indivíduos, no entanto, é indesculpável quanto ao hobby. Por mais que as percepções sejam afetadas pela personalidade e o ambiente em que se vive, é fácil reconhecer uma produção acima da média, que foge dos padrões e entrega qualidade ao ouvinte.
 
 Talvez seja hora de parar de buscar mais de 60 layers de efeito e passar a voltar às bases, que entregaram canções atemporais e de qualidade, ou talvez você prefira continuar com suas batidas repetitivas e programadas, vivendo na mediocridade daquilo que é sonoro, mas não é musical.
