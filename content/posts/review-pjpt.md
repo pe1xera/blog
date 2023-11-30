@@ -1,6 +1,6 @@
 +++
 title = 'Minha experiência com a certificação PJPT'
-date = 2023-11-20
+date = 2023-11-30
 cover = "pjpt-capa.png"
 +++
 

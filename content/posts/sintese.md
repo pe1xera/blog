@@ -1,6 +1,6 @@
 +++
 title = 'Síntese em Defesa da Boa Música'
-date = 2023-11-20
+date = 2023-11-30
 cover = "sintese.png"
 +++
 

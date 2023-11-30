@@ -1,6 +1,6 @@
 +++
 title = 'Whoami'
-date = 2023-11-20
+date = 2023-11-30
 +++
 
 {{< image src="../../../the_pe1xera.jpeg" position="center" style="border-radius: 50%; width: 45%; filter: drop-shadow(4px 3px 4px #1f1e1e); " >}}   
