@@ -1,6 +1,6 @@
 +++
 title = 'ILOVEYOU'
-date = 2023-11-30
+date = 2023-12-04
 cover = "ilovelarge.png"
 +++
 
