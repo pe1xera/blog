@@ -68,4 +68,6 @@ A condição ```== 0``` no código indica que não houve erros durante a tentati
 
 Por mais que o aTTLas não seja o melhor dos scripts e, pelo contrário, peca em diversos aspectos, acredito que o simples fato de pesquisar alguns conceitos da linguagem para desenvolvê-lo me fez entender muito melhor os aspectos do Python e suas bibliotecas. Certamente usarei meu próprio código em CTFs ou contextos semelhantes.
 
+O código está disponível em: https://github.com/pe1xera/aTTLas
+
 Agradeço por sua leitura até aqui, querido leitor!
