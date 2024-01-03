@@ -1,6 +1,6 @@
 +++
 title = 'ΔS: Reflexão sobre o "novo"'
-date = 2023-12-27
+date = 2024-01-02
 cover = "delta_s.png"
 +++
 
