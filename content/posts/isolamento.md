@@ -34,7 +34,7 @@ Uma ação diz mais do que mil discursos.
 
 Estamos diante do maior exemplo de isolamento, não por escolha, mas por dever. O fardo de um rei (ou líder) justo é suportar a carga do isolamento, a solidão que vem da responsabilidade de guiar sua comunidade para além das suas próprias trevas. Não é uma jornada que muitos desejam, mas é uma que poucos têm a coragem de enfrentar.
 
-Ainda que os militantes e grupos de tensão tentem modelar o mundo _per fas et nefas_ (por meios lícitos e ilícitos), uma única coisa os impede de alcançar a hegemonia absoluta: a verdade. Por mais que os grandes protagonistas tenham sido solapados por opositores que não tinham 1/3 de sua inteligência, visão de futuro e humildade, tais indivíduos estavam visivelmente errados e, hoje, podemos ver essa realidade com mais clareza.
+Ainda que os militantes e grupos de pressão tentem modelar o mundo _per fas et nefas_ (por meios lícitos e ilícitos), uma única coisa os impede de alcançar a hegemonia absoluta: a verdade. Por mais que os grandes protagonistas tenham sido solapados por opositores que não tinham 1/3 de sua inteligência, visão de futuro e humildade, tais indivíduos estavam visivelmente errados e, hoje, podemos ver essa realidade com mais clareza.
 
 A conduta do rei, querido leitor, não é a da indiferença estoica, mas do frio e convicto isolamento. Uma necessidade imposta pelos deveres de liderar contra a intolerância, de trazer luz onde há escuridão. Assim, enquanto o Dr. King caminhava adiante - por vezes sozinho -, seus ombros suportavam o peso do isolamento que reis justos carregam, e sua determinação permaneceu inabalável.
 
