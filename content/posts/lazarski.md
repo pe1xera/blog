@@ -4,6 +4,9 @@ date = 2024-02-16
 cover = "Efeito-Lazarski.png"
 +++
 
+_“Enquanto a multidão buscava o som alto, as bebidas e as imoralidades, Lazarski se arrastava em meio à podridão, interrogando as mentes dos comuns...”_   
+  
+   
 É possível libertar um escravo que DESEJA ser escravo, sem se tornar, você mesmo, um tirano? 
 
 A festa brasileira acabou, mas há muito a se pensar. Todos concordamos que uma festa, naturalmente, possui dois pressupostos: 1) O motivo da comemoração; 2) Alegria consciente. Ao longo deste breve texto, veremos que ambos os pressupostos foram feridos neste carnaval.
