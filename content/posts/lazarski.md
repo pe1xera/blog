@@ -24,4 +24,6 @@ Há, no entanto, uma grande questão: É possível libertar um escravo que DESEJ
 
 Portanto, se você é um desses, é hora de despertar do transe festivo e confrontar a realidade sombria que se esconde por trás das máscaras coloridas e dos adereços extravagantes. A verdadeira alegria não pode ser encontrada na superficialidade das festividades carnavalescas, mas sim na busca por significado e propósito que transcende os limites da indulgência hedonista.
 
+---
+
 Muito obrigado pela sua leitura até aqui!
