@@ -5,7 +5,8 @@ cover = "Efeito-Lazarski.png"
 +++
 
 _“Enquanto a multidão buscava o som alto, as bebidas e as imoralidades, Lazarski se arrastava em meio à podridão, interrogando as mentes dos comuns...”_   
-  
+
+---  
    
 É possível libertar um escravo que DESEJA ser escravo, sem se tornar, você mesmo, um tirano? 
 
