@@ -26,8 +26,8 @@ Uma função de hash nada mais é do que um cálculo - sim, um cálculo - que pr
 
 Essa propriedade permite que os hashes sejam usados especialmente para checagens de integridade. Abaixo, temos o hash gerado da pintura "Jesus and Peter on the Water", de Gustave Brion. 
 
-{{< image src="../../../jesus_e_pedro" position="center" style="border-radius: 5%;" >}} 
-{{< image src="../../../jesus_hash_original" position="center" style="border-radius: 5%;" >}} 
+{{< image src="../../../jesus_e_pedro.png" position="center" style="border-radius: 5%;" >}} 
+{{< image src="../../../jesus_hash_original.png" position="center" style="border-radius: 5%;" >}} 
 
 >md5sum jesus_e_pedro.png
 2bf92a6e8cf03491bac344256c33cfc1  jesus_e_pedro.png
