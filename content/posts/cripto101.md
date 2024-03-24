@@ -18,6 +18,8 @@ Criptografia é, por essência, um tema complexo. Por mais que a ideia de uma "t
 
 Encriptação envolve a Confidencialidade dados. Normalmente, isso é feito encriptando um arquivo com uma senha mas, ao mesmo tempo, uma senha fácil de adivinhar como "rodrigo2024" não vai fornecer nenhuma segurança confiável. Por conta disso, tem-se algoritmos criptográficos, que também podem ter suas fraquezas.
 
+---
+
 # Hashing  
 
 Primeiramente, hashing não tem nada a ver com encriptação. Porém, frequentemente aparece em conexão com ela. Essa confusão é entendível, devido às características que um hash possui.
