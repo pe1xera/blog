@@ -124,10 +124,10 @@ Agradeço pela leitura até aqui, querido leitor. Cheque as referências e até 
 # Recomendações (e referências)
 
 Permita-me deixar, como principal recomendação, o curso que inspirou a escrita deste artigo: **Criptologia I**, da San Jose Institute of Technology (SJIT), ensina criptografia e criptoanálise por meio de uma abordagem não-matemática (apenas lógica), com foco em esquemas visuais, ilustrações e atividades práticas (e nada de Alice e Bob).  
-1. [Criptologia I - SJIT](https://on.sanjose.institute/courses/criptologia-i)
+1. [Criptologia I - SJIT](https://on.sanjose.institute/courses/criptologia-i)   
 
-Demais referências:
-2. [What is Cryptography? - Fortinet](https://www.fortinet.com/resources/cyberglossary/what-is-cryptography)
-3. [What Is AES Encryption? The Complete Guide - Javed Shah](https://www.1kosmos.com/authentication/aes-encryption/)
-4. [Cryptographic Standards and Guidelines- NIST](https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines/archived-crypto-projects/aes-development)
-5. [Álbum escutado durante a escrita](https://open.spotify.com/playlist/2sj2Cyk1QsDZtNA1R2DQLe?si=974ceadd048d49b5)
+Demais referências:   
+2. [What is Cryptography? - Fortinet](https://www.fortinet.com/resources/cyberglossary/what-is-cryptography)  
+3. [What Is AES Encryption? The Complete Guide - Javed Shah](https://www.1kosmos.com/authentication/aes-encryption/)   
+4. [Cryptographic Standards and Guidelines- NIST](https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines/archived-crypto-projects/aes-development)  
+5. [Álbum escutado durante a escrita](https://open.spotify.com/playlist/2sj2Cyk1QsDZtNA1R2DQLe?si=974ceadd048d49b5)  
