@@ -126,6 +126,10 @@ Agradeço pela leitura até aqui, querido leitor. Cheque as referências e até 
 Permita-me deixar, como principal recomendação, o curso que inspirou a escrita deste artigo: **Criptologia I**, da San Jose Institute of Technology (SJIT), ensina criptografia e criptoanálise por meio de uma abordagem não-matemática (apenas lógica), com foco em esquemas visuais, ilustrações e atividades práticas (e nada de Alice e Bob).  
 1. [Criptologia I - SJIT](https://on.sanjose.institute/courses/criptologia-i)   
 
+{{< image src="../../../criptologia.png" position="center" style="border-radius: 2%;" title="Curso do SJIT." >}}   
+
+Estamos falando de um conteúdo raríssimo, ainda mais quando falamos de recursos em PT-BR. O material serve como um excelente handbook, para reler e consultar quando necessário (e sabemos que será necessário).   
+
 Demais referências:   
 2. [What is Cryptography? - Fortinet](https://www.fortinet.com/resources/cyberglossary/what-is-cryptography)  
 3. [What Is AES Encryption? The Complete Guide - Javed Shah](https://www.1kosmos.com/authentication/aes-encryption/)   
