@@ -26,6 +26,7 @@ paginate     = 10
   description = "Devaneios Neurais de pe1xera"
   keywords = "homepage, blog"
   images = [""]
+  ogImage = "pe1xera_base.png"
 
 [taxonomies]
     category = "blog"
