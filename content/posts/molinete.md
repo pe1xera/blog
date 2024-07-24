@@ -2,7 +2,7 @@
 title = 'Molinete, "A Hash-cracking Tool"'
 date = 2024-07-23
 cover = "molinete1_capa.png"
-image = "molinete1_capa.png"
+image = "https://pe1xera.github.io/molinete1_capa.png"
 +++
 
 O processo de quebra de hashes pode ser um grande atraso enquanto se realiza um pentest, especialmente quando o hash tem sua complexidade aumentada com aquela boa e velha pitada de Salt, um dado aleatório que é usado para gerar uma saída totalmente diferente daquela que a função de hash geraria por padrão, somente com a senha.
