@@ -19,7 +19,7 @@ Se as redes sociais têm tantos recursos e funcionalidades, não existe nenhum p
 
 Porém, querido leitor, o que observo é que essas ferramentas têm sido usadas como o principal canal para a destruição de construções históricas, temas já estabelecidos e convenções sociais que foram muito custosas para que a humanidade aderisse. Vindo de um ovo falante, esse é um comportamento completamente aceitável. Vindo de um jovem do século XXI, de jeito nenhum. 
 
-A juventude - na qual estou incluído, apenas por força da idade - tem se mostrado ávida não pelo conhecimento, tampouco pelos temas que podem fazer uma diferença dramática na sociedade, mas sim por banalidades, exposições narcisistas de suas próprias vidas, esquemas criminosos para multiplicação de renda, polêmicas sem fim e uma tendência - quase obscura - de sentir-se como especialista em um determinado assunto.
+A juventude - na qual estou incluído, apenas por força da idade - tem se mostrado ávida não pelo conhecimento, tampouco pelos temas que podem fazer uma diferença dramática na sociedade, mas sim por banalidades, exposições narcisistas de suas próprias vidas, esquemas criminosos para multiplicação de renda, polêmicas sem fim, falsas emoções e uma tendência - quase obscura - de sentir-se como especialista em um determinado assunto.
 
 Parece-me que todos querem saber tudo e, com isso, acabam não sabendo de nada além das margens do tema. O medo de serem esquecidos - impulsionado pelo fato de não fazerem nada relevante - move os usuários a buscar formas cada vez mais inusitadas e preocupantes de se exporem na rede, ainda que precisem inventar métodos comunicativos estranhos. Afinal, quanto mais conectado e engajado é o público, mais suscetível a inclinar-se as novas (des)verdades. 
 
