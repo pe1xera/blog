@@ -6,7 +6,7 @@ images = ["turing-capa.png"]
 +++
 
 _“Enquanto houver um hacker, a inteligência artificial não dominará o mundo.”_   
-_(Felipe Prado)_
+_(Felipe Prado, @fprado28)_
 
 ---
 ## Saturação
