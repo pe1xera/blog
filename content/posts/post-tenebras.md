@@ -5,7 +5,7 @@ cover = "post-tenebras.png"
 images = ["post-tenebras.png"]
 +++
 
-_“[...] Nasceu ali, em chama ardente,_ 
+_“[...] Nasceu ali, em chama ardente,_   
 _A Reforma. Livre e eloquente..”_   
 _(Trecho do poema de Yuri Pena)_
 
