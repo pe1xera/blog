@@ -1,0 +1,85 @@
+baseurl      = "https://pe1xera.github.io/"
+title        = "pe1xera"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+
+
+  # Subtitle for home
+  homeSubtitle = "Cybersecurity // Devaneios Neurais"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # OS theme is default when not provided, but you can force it to "light" or "dark"
+  defaultTheme = "dark"
+
+  # Show a global language switcher in the navigation bar
+  # enableGlobalLanguageMenu = true
+
+  # Metadata mostly used in document's head
+  description = "Devaneios Neurais de pe1xera"
+  keywords = "homepage, blog"
+  images = [""]
+  ogImage = "pe1xera_base.png"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "pe1xera"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Veja outros posts"
+
+  [languages.en.params]
+    subtitle  = "Devaneios Neurais"
+
+    [languages.en.params.logo]
+      logoText = "$cd /home/pe1xera"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts"
+
+ [[menu.main]]
+    identifier = "whoami"
+    name       = "Whoami"
+    url        = "/posts/whoami/"
+
+    [[params.social]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/pe1xera/"
+
+    [[params.social]]
+        name = "tryhackme"
+        url = "https://tryhackme.com/p/rpsantos"
+
+    [[params.social]]
+        name = "medium"
+        url = "https://medium.com/@whoisrodrigopeixoto"
+
+    [[params.social]]
+        name = "spotify"
+        url = "https://open.spotify.com/user/wzz2154qbubbjdsxcd8xtewdh"
+
+# Pra permitir as tags HTML
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
