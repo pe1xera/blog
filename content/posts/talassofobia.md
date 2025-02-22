@@ -6,7 +6,9 @@ images = ["talassofobia.png"]
 +++
 
 ---
-*“Seu medo nunca foi das ‘águas’, mas sim do terror que elas poderiam esconder.”*
+
+*“Seu medo nunca foi das ‘águas’, mas sim do terror que elas poderiam esconder.”*  
+
 ---
 
 Quero que você pare tudo o que está fazendo, querido leitor. Se estiver ouvindo música, pare; se estiver com pressa para fazer alguma outra atividade, termine-a e depois leia este texto; dedique-se exclusivamente à leitura, ao passo que analisamos a anatomia do medo, mas de uma forma um tanto inusitada.
@@ -23,7 +25,7 @@ Está tudo escuro. Você sente algo te puxar, mas não sabe o que é. Não há m
 
 Ela apenas está lá, uma maré silenciosa que passa a tomar conta de todos os seus pensamentos. E aos poucos, o que era inquietação se transforma em uma rendição inevitável. Não porque você desistiu, mas porque algo dentro de você sabe que não há nada a ser feito e que, talvez, aquilo que te espera seja agradável.
 
-Você sente o peso do vazio ao seu redor, mas, curiosamente, não é sufocante. Pelo contrário, é como se fosse libertador. Como se o medo e a dúvida fossem parte de um processo obrigatório, algo que precisava acontecer para que você pudesse atravessar o limite.
+Você realmente sente o peso do vazio ao seu redor, mas, curiosamente, não é sufocante. Pelo contrário, é como se fosse libertador. Como se o medo e a dúvida fossem parte de um processo obrigatório, algo que precisava acontecer para que você pudesse atravessar o limite.
 
 As barreiras que você tentou usar como defesa durante tanto tempo começam a ceder, uma por uma. Primeiro as pequenas, quase imperceptíveis. Depois as maiores, as que você jurava serem intransponíveis. Não há estilhaços, não há ruídos. Apenas o som do que quebra suavemente, enquanto algo maior toma o espaço que antes era só seu.
 
