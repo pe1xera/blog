@@ -1,5 +1,5 @@
 +++
-title = "доверяй, но проверяй (Confie, mas confira)"
+title = "доверяй, но проверяй"
 date = 2025-09-06
 cover = "confira.png"
 images = ["confira.png"]
