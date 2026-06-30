@@ -3,7 +3,7 @@ title = 'Whoami'
 date = 2023-11-30
 +++
 
-{{< image src="../../../rodrigo.png" position="center" style="border-radius: 50%; width: 45%; filter: drop-shadow(4px 3px 4px #1f1e1e); " >}}   
+{{< image src="../../../rodrigo.jpg" position="center" style="border-radius: 50%; width: 45%; filter: drop-shadow(4px 3px 4px #1f1e1e); " >}}   
        
 
 Este sou eu, **Rodrigo Peixoto Santos**, ou **pe1xera** - no caso de CTF's ou Discord. 
