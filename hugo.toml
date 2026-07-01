@@ -27,6 +27,7 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
   ogImage = "pe1xera_base.png"
+  EnableThemeToggle = true
 
 [taxonomies]
     category = "blog"
@@ -42,6 +43,7 @@ paginate     = 10
 
   [languages.en.params]
     subtitle  = "Devaneios Neurais"
+    EnableThemeToggle = true
 
     [languages.en.params.logo]
       logoText = "$cd /home/pe1xera"
