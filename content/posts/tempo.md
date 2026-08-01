@@ -1,6 +1,6 @@
 +++
 title = "Psicologia do Tempo"
-date = 2026-07-08
+date = 2026-08-01
 cover = "tempo.png"
 images = ["tempo.png"]
 +++
@@ -17,7 +17,7 @@ Mas aqui entra a crueldade do Professor Tempo (e vou usar o T maiúsculo, porque
 
 A gente segue em frente, aprende a ocupar a mente, cria novas rotinas, conhece novas pessoas, mas o Tempo é impiedoso, e ele sempre trará à tona toda a verdade, sem drama e sem rodeios: seus acertos e suas falhas.  
 
-Talvez seja justamente aí que esteja a maior ironia. Nós costumamos dizer que o Tempo cura todas as coisas. Discordo. O Tempo não cura. Ele revela. Revela o que era apenas entusiasmo e o que era convicção. Revela o que era apego e o que era amor. Revela aquilo que construímos sobre areia e aquilo que edificamos sobre a rocha.   
+Aí está a grande ironia. Nós costumamos dizer que o Tempo cura todas as coisas. Discordo. O Tempo não cura. Ele revela. Revela o que era apenas entusiasmo e o que era convicção. Revela o que era apego e o que era amor. Revela aquilo que construímos sobre areia e aquilo que edificamos sobre a rocha.   
 
 Ele também revela quem somos.  
 
