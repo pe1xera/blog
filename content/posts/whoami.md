@@ -8,22 +8,20 @@ date = 2023-11-30
 
 Este sou eu, **Rodrigo Peixoto Santos**, ou **pe1xera** - no caso de CTF's ou Discord. 
 
-Francamente, não há nada mais difícil do que definir a si mesmo sem ser impreciso ou enviesado por suas próprias percepções. Como um entusiasta apaixonado por cibersegurança e envolvido na comunidade brasileira desse campo, estou ciente das lacunas que nosso país enfrenta nesse sentido. Diante disso, sinto-me responsável por buscar aprimoramento, todos os dias, com profissionais de referência no mercado.
+Sou apaixonado por cibersegurança e hoje tenho o privilégio de atuar profissionalmente na área. Faço parte da comunidade brasileira que vive e respira esse tema e, mesmo tendo transformado um objetivo antigo em realidade, sei que ainda há muito a aprender. É justamente por isso que busco evoluir um pouco mais a cada dia, trocando ideias com profissionais que admiro e acompanhando de perto o que acontece no campo.
+ 
+Atualmente, atuo como Analista de Segurança da Informação, com foco em Blue Team, trabalhando diretamente com investigação e resposta a alertas e incidentes de segurança.
+ 
+Concluí o curso de Defesa Cibernética na FIAP e sigo aprofundando meus conhecimentos tanto na segurança defensiva quanto ofensiva, com especialização em Pentest pela Desec Security. Também faço parte do Brazilian Advanced Team (BAT), programa de cibersegurança promovido pela SJIT.
+ 
+Entre minhas certificações estão CompTIA Security+, Practical Junior Penetration Tester (PJPT), Microsoft SC-900 e Microsoft AZ-900.
 
-Hoje, curso Defesa Cibernética na FIAP, considerada a melhor faculdade de tecnologia do país. Simultaneamente, venho me especializando em Pentest Profissional pela Desec Security, uma instituição de renome na área de segurança ofensiva. Além disso, participo do Brazilian Advanced Team (BAT), um programa abrangente de cibersegurança oferecido pela SJIT.
-
-Entre minhas principais certificações estão: CompTIA Security+, Practical Junior Penetration Tester (PJPT), Microsoft SC-900 e Microsoft AZ-900.
-
-Além das habilidades adquiridas durante trabalho em Service Desk, como troubleshooting e comunicação, destaco que tenho conhecimento das bases fundamentais de segurança, assim como uma forte capacidade na redação técnica e elaboração de relatórios.
-
-Meu interesse pela segurança da informação e seu impacto na sociedade não é exclusivo! Gosto de explorar e discutir temas como design, literatura, teologia, política, videogames e música, sempre que possível.
+Ora, mas meu interesse pela tecnologia não é exclusivo! Gosto, também, de explorar e discutir temas como Design, Literatura, Teologia, Política, Videogames e Música, sempre que possível :)
 
 ---
 {{< image src="../../../Devaneios---capa.png" >}}  
 **Devaneios Neurais** nasce como uma iniciativa para compartilhar os temas que me são caros, sejam eles técnicos ou não-técnicos, lógicos ou ilógicos, práticos ou não-práticos.
 
-Produzir conteúdo, especialmente sobre tópicos que não dominamos em sua totalidade, é altamente desafiador. Enquanto pode parecer muita pretensão discorrer sobre os assuntos em que ainda estamos nos aprofundando, acredito que reter o conhecimento aprisionado na mente — ainda que esteja incorreto — é um desperdício de possíveis perspectivas e — por que não? — mais aprendizado.
-
 ---
 
-**Divirta-se!**
+**Boa leitura!**
